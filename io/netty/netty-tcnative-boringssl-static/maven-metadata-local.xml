@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.netty</groupId>
+  <artifactId>netty-tcnative-boringssl-static</artifactId>
+  <versioning>
+    <release>2.0.29</release>
+    <versions>
+      <version>2.0.29</version>
+    </versions>
+    <lastUpdated>20200303145259</lastUpdated>
+  </versioning>
+</metadata>
